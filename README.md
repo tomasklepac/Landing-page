@@ -1,25 +1,25 @@
 # Landing Page Template
 
-Jednoduchá landing page šablona pro přesměrování uživatelů na e-shop.
+A simple landing page template for redirecting users to an e-shop.
 
-## Funkce
+## Features
 
-*   **Pozadí**: Plnoformátový obrázek na pozadí s tmavým překryvem pro lepší čitelnost.
-*   **Logo**: Prostor pro logo společnosti.
-*   **Navigace**: Dvě výrazná tlačítka pro přihlášení a registraci.
-*   **Responsivita**: Přizpůsobí se velikosti obrazovky.
+*   **Background**: Full-screen background image with a dark overlay for better readability.
+*   **Logo**: Space for the company logo.
+*   **Navigation**: Two prominent buttons for login and registration.
+*   **Responsiveness**: Adapts to screen size.
 
-## Použití
+## Usage
 
-1.  **Obrázky**:
-    *   Nahrajte logo jako `logo.png`.
-    *   Nahrajte pozadí jako `background.jpg`.
-2.  **Odkazy**:
-    *   V souboru `index.html` upravte odkazy `href` u tlačítek, aby směřovaly na váš e-shop.
+1.  **Images**:
+    *   Upload your logo as `logo.png`.
+    *   Upload your background as `background.jpg`.
+2.  **Links**:
+    *   Edit the `href` attributes in `index.html` buttons to point to your e-shop.
 
-## Struktura souborů
+## File Structure
 
-*   `index.html` - Hlavní HTML struktura.
-*   `style.css` - Styly pro vzhled stránky.
-*   `logo.png` - (Nutno přidat) Vaše logo.
-*   `background.jpg` - (Nutno přidat) Vaše pozadí.
+*   `index.html` - Main HTML structure.
+*   `style.css` - Styles for the page appearance.
+*   `logo.png` - (To be added) Your logo.
+*   `background.jpg` - (To be added) Your background.
