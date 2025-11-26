@@ -12,15 +12,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #2c3e50; /* Fallback barva */
-    /* Zde nastavte cestu k pozadí */
+    background-color: #2c3e50; /* Fallback color */
+    /* Set background image path here */
     background-image: url('background.jpg'); 
     background-size: cover;
     background-position: center;
     position: relative;
 }
 
-/* Ztmavovací vrstva přes pozadí pro lepší čitelnost */
+/* Dark overlay over background for better readability */
 .background-overlay {
     position: absolute;
     top: 0;
@@ -51,7 +51,7 @@ body {
     margin: 0 auto;
 }
 
-/* Styl pro placeholder textu loga, pokud chybí obrázek */
+/* Style for logo placeholder text if image is missing */
 .logo:empty::before, .logo:contains("LOGO PLACEHOLDER") {
     content: "LOGO";
     color: white;
